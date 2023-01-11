@@ -5,7 +5,6 @@ body{
     background-image: url(../images/bg-desktop.svg);
     background-color: var(--violeta);
     background-repeat: no-repeat;
-    background-size: 100%;
     background-size: cover;
     box-sizing: border-box;
     margin: 40px 60px;
