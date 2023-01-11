@@ -1,0 +1,54 @@
+@media (max-width: 1220px){
+    .box-txt{
+        padding-top: 0;
+    }
+
+}
+
+@media (max-width: 1100px){
+    body{
+        margin: 0;
+        background-image: url(../images/bg-mobile.svg);
+        background-size: 100% 50%;
+    }
+
+    .header{
+        margin-top: 40px;
+        display: flex;
+        justify-content: flex-start;
+        margin-left: 50px;
+        align-items: center;
+    }
+
+    .main{
+        margin-top: 80px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-right: 0;
+    }
+
+    .box-img{
+        padding-right: 0;
+        max-width: 80%;
+    }
+
+    .box-img img{
+        max-width: 100%;
+    }
+
+    .box-txt{
+        padding-right: 0;
+        margin: 50px;
+    }
+    
+
+    .footer{
+        justify-content: center;
+        padding-right: 0;
+        margin-bottom: 50px;
+        margin-top: 15px;
+    }
+
+}
